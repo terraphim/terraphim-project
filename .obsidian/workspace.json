@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "80b99be8deeffaed",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d04d866020795dff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/Juan Llorens.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "40d33d7ce14af233",
         "type": "tabs",
         "children": [
@@ -34,8 +16,21 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "98c2912c5bdec829",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/AI from Idea to Production.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Juan Llorens.md",
+                "file": "pages/AI from Idea to Production.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Juan Llorens.md",
+                "file": "pages/AI from Idea to Production.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Juan Llorens.md"
+                "file": "pages/AI from Idea to Production.md"
               }
             }
           },
@@ -197,10 +192,17 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "d04d866020795dff",
+  "active": "98c2912c5bdec829",
   "lastOpenFiles": [
-    "pages/Garry Marcus.md",
     "pages/Juan Llorens.md",
+    "pages/README.md",
+    "journals/2023_02_23.md",
+    "journals/2023_02_21.md",
+    "pages/AI from Idea to Production.md",
+    "pages/Data Architect.md",
+    "pages/AI___ML Engineer.md",
+    "pages/contents.md",
+    "pages/Garry Marcus.md",
     "pages/LICENSE.md",
     "pages/Untitled.md",
     "pages/Testing.md",
