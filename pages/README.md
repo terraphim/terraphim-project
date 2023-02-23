@@ -1,0 +1,3 @@
+- # Test Repository for Terraphim AI assistant:
+- ##  Shall work with both Loqseq and Obsidian
+- See https://www.youtube.com/watch?v=mXO57vSAxEI how to set it up
