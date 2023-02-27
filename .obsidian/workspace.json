@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/AI from Idea to Production.md",
+                "file": "pages/Metadata.md",
                 "mode": "source",
                 "source": true
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/AI from Idea to Production.md",
+                "file": "pages/Metadata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/AI from Idea to Production.md",
+                "file": "pages/Metadata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/AI from Idea to Production.md"
+                "file": "pages/Metadata.md"
               }
             }
           },
@@ -194,16 +194,16 @@
   },
   "active": "98c2912c5bdec829",
   "lastOpenFiles": [
+    "pages/LICENSE.md",
     "pages/Juan Llorens.md",
+    "pages/Data Architect.md",
+    "pages/AI___ML Engineer.md",
+    "pages/AI from Idea to Production.md",
     "pages/README.md",
     "journals/2023_02_23.md",
     "journals/2023_02_21.md",
-    "pages/AI from Idea to Production.md",
-    "pages/Data Architect.md",
-    "pages/AI___ML Engineer.md",
     "pages/contents.md",
     "pages/Garry Marcus.md",
-    "pages/LICENSE.md",
     "pages/Untitled.md",
     "pages/Testing.md",
     "pages/test.md"
