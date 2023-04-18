@@ -1,6 +1,6 @@
 - # Positioning
 - ## Why we need to rethink and replan positioning?
-- Before October 2022 the number of search tools over code - i.e. github was pretty small, countable one hand and pretty established. With ChatGPT hype getting traction the number of search tools is 1000+ and coming, so launching Terraphim with code search over Github and merging/overlaying results with Notion is no longer unique or appealing - the area is very crowded and needs substantial marketing investment to make a dent. We can still launch with code search and [[Take Control over your relevance]] proposal, but then we need to follow up quickly with some major differentiator out of our existing roadmap.
+- Before October 2022 the number of search tools over code - i.e. github was pretty small, countable one hand and pretty established. With ChatGPT hype getting traction the number of search tools is 1000+ and coming, so launching Terraphim AI with code search over Github and merging/overlaying results with Notion is no longer unique or appealing - the area is very crowded and needs substantial marketing investment to make a dent. We can still launch with code search and [[Take Control over your relevance]] proposal, but then we need to follow up quickly with some major differentiator out of our existing roadmap.
 - For Terraphim we need to explore and speed up Graph Embeddings as differentiator and map it to [[Knowledge graph]] and [[Personal Knowledge Management]]
 -
 - # Terraphim Features
@@ -12,6 +12,7 @@
 - [[Feed your own Knowledge Graph as core of you own AI]]
 - [[Share own KG with other people]]
 - [[Be able to leverage other peoples KG with own AI assistant in search/knowledge retrieval]]=>[[Knowledge Entaglement]]
+-
 - # Terraphim UX
 - Search bar with results page
 - Discord chatbot
