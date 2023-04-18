@@ -1,0 +1,46 @@
+- # Positioning
+- ## Why we need to rethink and replan positioning?
+- Before October 2022 the number of search tools over code - i.e. github was pretty small, countable one hand and pretty established. With ChatGPT hype getting traction the number of search tools is 1000+ and coming, so launching Terraphim with code search over Github and merging/overlaying results with Notion is no longer unique or appealing - the area is very crowded and needs substantial marketing investment to make a dent. We can still launch with code search and [[Take Control over your relevance]] proposal, but then we need to follow up quickly with some major differentiator out of our existing roadmap.
+- For Terraphim we need to explore and speed up Graph Embeddings as differentiator and map it to [[Knowledge graph]] and [[Personal Knowledge Management]]
+-
+- # Terraphim Features
+- Own relevance and search in knowledge retrieval across multiple haystacks
+- Question/Answering
+- ChatGPT like (OpenAssistant)/LLM
+- ## Terraphim Features - Differentiators
+- [[Graph Embeddings]]
+- [[Feed your own Knowledge Graph as core of you own AI]]
+- [[Share own KG with other people]]
+- [[Be able to leverage other peoples KG with own AI assistant in search/knowledge retrieval]]=>[[Knowledge Entaglement]]
+- # Terraphim UX
+- Search bar with results page
+- Discord chatbot
+- Email chatbot
+-
+- # Joint Opportunities
+- # Terraphim Private cloud
+- Enabling capabilities:
+	- CD pipeline - earthly.dev
+	- Packaging: Firecracker VM
+		- Packaging atomic: chroot around binary for Atomic Server
+	- Network: ZeroTier
+	- Security: Login with Github (or Discord)
+	- Monitoring (monit)
+	- Autoscale UP (get new server)
+	- Autoscale down (zip data folders and move to new server)
+	- Redundancy of data ( backup to S3 or Redis Enterprise)
+	- Availability (Resilience) of service (publish services and certificates + cache user auth into Redis Enterprise)
+- # Evaluation of different search engines Tantivy vs Elastic etc
+	- Roadmap item on Terraphim
+	- Project for Ontola
+- # Atomic Data Server
+- Used as Metadata Store (MDS): stores types of entities and their relationship
+- Used as MDS + Visualization: how to visualise data (CSS styles and FE related pre-processing)
+- Used as "Mapper": stores how to map different data types from different haystacks to each other
+- Configuration store for Terraphim (and Atomic)
+- E-Commerce use-case: Donation driven roadmap for Terraphim, Features are "product".
+- CMS core use case: multiple urls from the same KG based on queries
+- # Non Tech/Methodological
+- How to evaluate Relevance?
+- How to choose right LLM for me?
+- How to evaluate results of fine-tuning/training of LLM for me?

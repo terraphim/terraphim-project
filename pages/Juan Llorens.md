@@ -43,28 +43,28 @@
 	#role [[*MBSE method engineer]] #corresponds  [[Product manager]]
 	----
 	#concept  [[*OSLC (Open Services for Lifecycle Collaboration)]]  #corresponds [[Terraphim]] [[Mirroring hypothesis]] [[Conway's law mirroring hypothesis]]
-		#concept  [[*Artefact reuse]] #corresponds  [[Interchangeability]] [[Interoperability]] [[Metadata]] [[Metacontext]]
+		#concept  [[Artefact reuse]] #corresponds  [[Interchangeability]] [[Interoperability]] [[Metadata]] [[Metacontext]]
 		Software and system artefact reuse [Mili et al., 1995] is commonly defined as a process to systematically specify, produce, classify, retrieve and adapt software-based artefacts for the purpose of using them in a development process.
-		#concept [[*Principles of reuse]] abstraction, selection, specialization and integration #corresponds  [[Interchangeability]] [[Interoperability]] [[Metacontext]]
-		#concept [[*Reusability factor of system artefacts]]  #corresponds  [[Abstraction]]
-		#concept [[*Knowledge representation paradigm]] this problem still persists since a suitable representation format (and syntax) can already be reached in several ways [Davis et al., 1993]
-			#concept  [[*Knowledge strategy]] #corresponds  [[Metadata]] [[Work product]] [[Framework]] [[Metacontext]] a knowledge strategy is required to really represent, store and search system artefacts metadata and contents.
-			#concept [[*Knowledge graph]] #corresponds [[Terraphim]] [[Work package]]
-			#concept [[*Knowledge item]] #corresponds  [[Modularity of definitions]] [[Method]] [[Chains and circles of communication]] V-model in [[MBSE]] as [[ANT translation]]
-				#concept  [[*Artefact]] These centralized repositories represent artefacts as a set of metadata that are linked to a system artefact (content). #corresponds  [[System model]]
+		#concept [[Principles of reuse]] abstraction, selection, specialization and integration #corresponds  [[Interchangeability]] [[Interoperability]] [[Metacontext]]
+		#concept [[Reusability factor of system artefacts]]  #corresponds  [[Abstraction]]
+		#concept [[Knowledge representation paradigm]] this problem still persists since a suitable representation format (and syntax) can already be reached in several ways [Davis et al., 1993]
+			#concept  [[Knowledge strategy]] #corresponds  [[Metadata]] [[Work product]] [[Framework]] [[Metacontext]] a knowledge strategy is required to really represent, store and search system artefacts metadata and contents.
+			#concept [[Knowledge graph]] #corresponds [[Terraphim]] [[Work package]]
+			#concept [[Knowledge item]] #corresponds  [[Modularity of definitions]] [[Method]] [[Chains and circles of communication]] V-model in [[MBSE]] as [[ANT translation]]
+				#concept  [[Artefact]] These centralized repositories represent artefacts as a set of metadata that are linked to a system artefact (content). #corresponds  [[System model]]
 						Although in some cases, the use of metadata can be useful to look up artefacts by filtering certain properties, it seems too simple to really enable the proper reuse of the knowledge embedded in system artefacts.
 					#definintion Ios_km:Artefact. A container of relationships between concepts and metaproperties to semantically describe any piece of information. It is the basis for the creation of an underlying semantic network.
-			#concept  [[*Relationship]]	 #corresponds  [[Fact type]]
+			#concept  [[Relationship]]	 #corresponds  [[Fact type]]
 				#definintion  Ios_km:Relationship. A relationship represents a link between any set of resources. It is possible to add semantics and it can contain any number of elements representing binary, ternary or even n-ary relationships.
-			#concept  [[*MetaData]] #corresponds  [[Metadata]]
+			#concept  [[Metadata]] #corresponds  [[Metadata]]
 				#definintion  Ios_km:MetaData. A tag-value attribute representing typical metadata properties. [Dublin Core](https://www.dublincore.org/specifications/dublin-core/) is used here to represent such information. Both can be any type of resource or, more specifically, concepts.
-			#concept  [[*Repository for systematic reuse]] #corresponds  [[Formal representation]] [[Metadata]] [[System model]] [[Domain model]] [[Terraphim]] [[Linked data]] [[Interoperability]]
+			#concept  [[Repository for systematic reuse]] #corresponds  [[Formal representation]] [[Metadata]] [[System model]] [[Domain model]] [[Terraphim]] [[Linked data]] [[Interoperability]]
 				#corresponds  #requirement A language for representing any artefact’s metadata and contents.
 				#corresponds  #requirement  A system for indexing and retrieval.
 				#corresponds  #requirement  A standard input/output interface (data shape+REST+RDF) to share and exchange artefact metadata and contents.
-				#concept  [[*OSLC KM|*Data shape for Knowledge Management]] #corresponds  [[Terraphim]] [[SKOS]]
-				#concept  [[*Data shape for representing system artefacts]]
-				#concept  [[*Interoperability CRYSTAL]] “Interoperability Specification – V3” of the CRYSTAL project and [IOS V2 Deliverable (crystal-artemis.eu)](https://www.crystal-artemis.eu/fileadmin/user_upload/Deliverables/CRYSTAL_D_601_023_v3.0.pdf)
+				#concept  [[*OSLC KM| Data shape for Knowledge Management]] #corresponds  [[Terraphim]] [[SKOS]]
+				#concept  [[Data shape for representing system artefacts]]
+				#concept  [[Interoperability CRYSTAL]] “Interoperability Specification – V3” of the CRYSTAL project and [IOS V2 Deliverable (crystal-artemis.eu)](https://www.crystal-artemis.eu/fileadmin/user_upload/Deliverables/CRYSTAL_D_601_023_v3.0.pdf)
 				#concept  [[*Query]] #corresponds  [[Terraphim]] [[Text architecture, Narrative]]
 			#concept  [[*Shape|*Type of resource]] #corresponds  [[Linked data]]
 			#concept  [[*Data exchange]] #corresponds  [[Interoperability]] data exchange does not necessarily imply reuse.
@@ -110,4 +110,4 @@
 	#thesis 
 	#research_question 
 	#role #corresponds 
-	#concept #corresponds 
+	#concept #corresponds
