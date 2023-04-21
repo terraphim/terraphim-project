@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Metadata.md",
+                "file": "pages/BERT is biased.md",
                 "mode": "source",
                 "source": true
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Metadata.md",
+                "file": "pages/BERT is biased.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Metadata.md",
+                "file": "pages/BERT is biased.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Metadata.md"
+                "file": "pages/BERT is biased.md"
               }
             }
           },
@@ -194,6 +194,8 @@
   },
   "active": "98c2912c5bdec829",
   "lastOpenFiles": [
+    "pages/Data Scientist.md",
+    "pages/Metadata.md",
     "pages/BERT is biased.md",
     "journals/2023_03_06.md",
     "pages/LICENSE.md",
