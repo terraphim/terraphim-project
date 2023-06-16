@@ -341,8 +341,7 @@
  :file/name-format :triple-lowbar
  :journal/page-title-format "yyyy-MM-dd"
  :editor/logical-outdenting? true
- :publishing/all-pages-public? true
- :feature/enable-flashcards? false
+ :publishing/all-pages-public? false
 
  ;; specify the format of the filename for journal files
  ;; :journal/file-name-format "yyyy_MM_dd"
