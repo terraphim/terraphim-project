@@ -1,3 +1,4 @@
+public:: true
 type:: [[Practice]]
 standards:: [[@INCOSE Systems Engineering Handbook: A Guide for System Life Cycle Processes and Activities]], [[@The Standard for Organizational Project Management]], [[@Practice Standard for Scheduling - Third Edition]], [[@PMI Lexicon of Project Management Terms]]
 synonyms:: planning of a project, planning of the project, planning of projects, planning projects, project design, project scheduling, project outline, project strategy, project proposal, project blueprint
