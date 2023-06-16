@@ -344,7 +344,8 @@
  :publishing/all-pages-public? true
  :feature/enable-flashcards? false
  :feature/enable-journals? false
- :default-home {}
+ :default-home {:page "Documentation tree"}
+ :feature/enable-whiteboards? false
 
  ;; specify the format of the filename for journal files
  ;; :journal/file-name-format "yyyy_MM_dd"
