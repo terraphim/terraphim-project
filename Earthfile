@@ -10,7 +10,7 @@ publish-pipeline:
   BUILD +run
 
 prepare: 
-  FROM github.com/terraphim/terraphim-logseq-md-parser-simple+docker --tag="latest"
+  FROM github.com/terraphim/terraphim-logseq-md-parser-simple+build --tag="latest"
   WORKDIR /output
   COPY pages/* .
   RUN mkdir ./data
