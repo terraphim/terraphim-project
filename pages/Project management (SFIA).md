@@ -1,5 +1,6 @@
 public:: true
-synonyms:: Project Management, PM
+synonyms:: Project Management, PM, Project Manager, Manager
+
 
 sfialevel5description:: Takes full responsibility for the definition, approach, facilitation and satisfactory completion of medium-scale projects. Provides effective leadership to the project team. Adopts appropriate project management methods and tools. Manages the change control process and assesses and manages risks. Ensures that realistic project plans are maintained and delivers regular and accurate communication to stakeholders. Ensures project and product quality reviews occur on schedule and according to procedure.  Ensures that project deliverables are completed within agreed cost, timescale and resource budgets, and are formally accepted, by appropriate stakeholders. Monitors costs, times, quality and resources used and takes action where  performance deviates from agreed tolerances.
 sfialevel4description:: Defines, documents and executes small projects or sub-projects. Works alone or with a small team actively participating in all phases of the project. Applies appropriate project management methods and tools. Identifies, assesses and manages risks effectively. Agrees project approach with stakeholders and prepares realistic project plans (including scope, schedule, quality, risk and communication plans). Tracks activities against the project schedule, managing stakeholder involvement as appropriate. Monitors costs, times, quality and resources used takes action where these exceed agreed tolerances.
