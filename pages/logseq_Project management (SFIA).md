@@ -1,4 +1,5 @@
   SFIACode:: PRMG
+  type:: Concept
   SFIAskill:: Project management
   SFIAcategory:: Change and transformation
   SFIAsubcategory:: Change implementation
