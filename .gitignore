@@ -4,6 +4,8 @@
 .LSOverride
 data
 logseq/bak
+# don't publish pdfs by default
+*.pdf
 
 # Icon must end with two \r
 Icon

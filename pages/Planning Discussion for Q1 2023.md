@@ -12,7 +12,7 @@
 - [[Feed your own Knowledge Graph as core of you own AI]]
 - [[Share own KG with other people]]
 - [[Be able to leverage other peoples KG with own AI assistant in search/knowledge retrieval]]=>[[Knowledge Entaglement]]
--
+- [[Personal Finance categorisation and budget]]
 - # Terraphim UX
 - Search bar with results page
 - Discord chatbot
