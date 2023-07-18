@@ -1,0 +1,27 @@
+  type:: [[feature]]
+  product:: [[Terraphim]]
+  relatedfeatures::
+  
+- # User flow
+- The user selects the role. Terraphim shows at the beginning of the search prompt "Topic." There is a domain page within the role's graph, for example, the "maintenance" page in the knowledge graph of the role "certified SE." It is a general topic that can be further specified.
+  logseq.order-list-type:: number
+- The user inputs a topical search prompt, and Terraphim suggests terms from the selected role graph. For example, "mai..." -> "maintenance," or "maintenance report" or if the user autocompletes the suggested keyword with a tab or mouse click, suggests a drop-down (a mouse scroll?), where the user can further add related terms that do not contain "maintenance" directly but are related to the term in the graph - "Perform logistics support" or "Operation report." So, in the end, it's something like "maintenance (topic) + operation report (prompt)." Topics have a type of "business function" in the SEBOK graph. Extension to the topic can be anything, suggested types - "business process," or "business object."
+  logseq.order-list-type:: number
+- Terraphim searches for the topic and its synonyms as mandatory entries in search results. It ranks higher if the topic is in the name of the SEBoK wiki article or in the section headers, or the bibliography. Extension entries are not mandatory, but search results rank higher if found both a topic and an extension. In search results shown found terms:
+  logseq.order-list-type:: number
+	- For example, for this search prompt, it ranks high https://sebokwiki.org/wiki/System_Maintenance
+	  logseq.order-list-type:: number
+	- Further options are: send to bot or showmecherries.
+	  logseq.order-list-type:: number
+- The user opens the article with the command "showmecherries," (in the bot /showmecherries https://sebokwiki.org/wiki/System_Maintenance) and Terraphim highlights in different colors:
+  logseq.order-list-type:: number
+	- Topical and extension terms, including their synonyms and proximate adjectives: System Maintenance; System Maintenance planning; maintenance concept; maintaining operational capability; maintenance process; maintainability of the system; system scheduled maintenance; reliability-centered maintenance strategy; preventive maintenance; corrective maintenance; Segmenting maintenance activities; approved maintenance subcontractors; maintenance/repair turn-around times; maintenance management; maintenance activities; maintenance plans; maintenance strategy; maintenance constraints;
+	  logseq.order-list-type:: number
+	- Domain-specific terms with acronyms: level of repair analysis (LORA); support and test equipment (STE);
+	  logseq.order-list-type:: number
+	- Persons: Scott Jackson, Brian Gallagher, David Dorgan, Blanchard, B.S., W.J. Fabrycky
+	  logseq.order-list-type:: number
+- The user also can use the parameter "showmecherries -2" to highlight not only topical terms but the whole "maintenance" page graph with its inputs, outputs, and processes.
+  logseq.order-list-type:: number
+- Terraphim asks the user, "Like what you see"? If yes, it ingests the article reference in the BibliTex format (see how the Zotero plugin does it) as well as the text itself in the Terraphim cloud and the user goes to the personal graph enrichment.
+  logseq.order-list-type:: number
