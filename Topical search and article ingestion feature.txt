@@ -1,6 +1,6 @@
   type:: [[feature]]
   product:: [[Terraphim]]
-  relatedfeatures::
+  relatedfeatures:: [[Personal knowledge graph enrichment]]
   
 - # User flow
 - The user selects the role. Terraphim shows at the beginning of the search prompt "Topic." There is a domain page within the role's graph, for example, the "maintenance" page in the knowledge graph of the role "certified SE." It is a general topic that can be further specified.
@@ -23,5 +23,5 @@
 	  logseq.order-list-type:: number
 - The user also can use the parameter "showmecherries -2" to highlight not only topical terms but the whole "maintenance" page graph with its inputs, outputs, and processes.
   logseq.order-list-type:: number
-- Terraphim asks the user, "Like what you see"? If yes, it ingests the article reference in the BibliTex format (see how the Zotero plugin does it) as well as the text itself in the Terraphim cloud and the user goes to the personal graph enrichment.
+- Terraphim asks the user, "Like what you see"? If yes, it ingests the article reference in the BibliTex format (see how the Zotero plugin does it) as well as the text itself in the Terraphim cloud, and the user goes to the personal graph enrichment once proposed "Let's extend your knowledge a bit!"
   logseq.order-list-type:: number
