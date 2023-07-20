@@ -1,0 +1,14 @@
+  type:: [[feature]]
+  product:: [[Terraphim]]
+  relatedfeatures:: [[Topical search and article ingestion]]
+  
+- Now the user has a knowledge graph enriched with synonyms and related to experts in the field and maybe discovered some issues with the process model (missing inputs or outputs). It is time to map the SEBoK concepts to the SFIA to increase the number of semantic dimensions.
+  logseq.order-list-type:: number
+- The user returns to Terraphim and selects the single search source "SFIA catalog." The search prompt is the topic name, in our case, "maintenance." In the search results the user sees SFIA skills that have "maintenance" in the description. If the user accepts some skill, he can import the skill entry in his personal knowledge graph from the SFIA catalog:
+  logseq.order-list-type:: number
+  ![image.png](../assets/image_1689875267814_0.png){:height 898, :width 711}  
+- It is basically plain importing from the CSV, but as Logseq attributes require single lines of text, all entries should be transformed into strings. Once the user adds the new SFIA skill he puts a hierarchical backlink (skill categor / skill name) into the frontmatter of a topic:
+  logseq.order-list-type:: number
+  ![image.png](../assets/image_1689875594772_0.png){:height 713, :width 711}  
+- Now everything is ready for the user to generate the role's graph that matches the topic. For this particular case, it will be the "system maintenance" role that we will create using the VerbNet ontology of role with [improvements proposed](http://www.meteck.org/files/FOIS23positionsCRC.pdf) by M. Keet.
+  logseq.order-list-type:: number
