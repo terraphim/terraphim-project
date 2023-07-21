@@ -10,7 +10,7 @@ relatedfeatures:: [[Topical search and article ingestion]]
 	  logseq.order-list-type:: number
 	- Add persons to the network.
 	  logseq.order-list-type:: number
-- **Confirm relevant highlights.** From the previous step, the user has the proposed highlights: ((64b6f3be-0832-409a-8012-4ab2c3aea6f2))
+- **Confirm relevant highlights.** From the previous step, the user has the proposed highlights: Topical and extension terms, including their synonyms and proximate adjectives: System Maintenance; System Maintenance planning; maintenance concept; maintaining operational capability; maintenance process; maintainability of the system; system scheduled maintenance; reliability-centered maintenance strategy; preventive maintenance; corrective maintenance; Segmenting maintenance activities; approved maintenance subcontractors; maintenance/repair turn-around times; maintenance management; maintenance activities; maintenance plans; maintenance strategy; maintenance constraints;
   logseq.order-list-type:: number
   ingested into a separate page of the personal knowledge graph with a mark-down.
 	- The user accepts or refutes proposed highlights removing or leaving the markup.
